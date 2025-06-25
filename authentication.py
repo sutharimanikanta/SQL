@@ -5,7 +5,7 @@ from getpass import getpass
 db = {
     "host": "localhost",
     "user": "root",
-    "password": "av.en.u4aie22060",
+    "password": "",
     "database": "auth",
 }
 dbc = mysql.connector.connect(**db)
